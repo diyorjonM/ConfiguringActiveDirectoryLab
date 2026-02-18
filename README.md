@@ -26,7 +26,8 @@ The purpose of this project was to:
 
 ## Steps
 
-1. Launching an EC2 instance
+
+### 1. Launching an EC2 instance
   - Click Launch Instance.
   <img width="1179" height="383" alt="Screenshot 2026-02-17 at 10 25 23 PM" src="https://github.com/user-attachments/assets/c87a480b-d47f-4556-a98d-41989652e0e6" />
 
@@ -39,8 +40,10 @@ The purpose of this project was to:
   - Download RDP file, decrypt the password using the new key pair and login to the VM.
   <img width="1297" height="495" alt="Screenshot 2026-02-17 at 10 28 49 PM" src="https://github.com/user-attachments/assets/35de701e-5661-4b84-8e9a-857265eaf03a" />
 
-2. Configure Active Directory
+
+### 2. Configure Active Directory
   - Open Server manager in the VM.
+    
     <img width="641" height="719" alt="Screenshot 2026-02-17 at 10 35 48 PM" src="https://github.com/user-attachments/assets/2fd52cf4-2ea4-401d-bc75-cbe2a516d11c" />
 
   - Click Add Roles and Features.
